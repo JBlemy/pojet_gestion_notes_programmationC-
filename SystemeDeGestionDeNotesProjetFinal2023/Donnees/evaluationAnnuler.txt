@@ -1,0 +1,4 @@
+eval_113			res_214			Reseau				Final			0.60
+eval_44			alg_20			Algo				Intra			0.60
+eval_212			lin_122			Linux				Intra			0.60
+eval_102			alg_20			Algo				Final			0.40

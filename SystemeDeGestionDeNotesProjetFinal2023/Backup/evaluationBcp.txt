@@ -1,0 +1,12 @@
+eval_231			alg_20			Algo				Final			0.60
+eval_220			pro_141			Proba				Intra			0.40
+eval_223			ang_232			Anglais				Final			0.60
+eval_120			pro_141			Proba				Final			0.60
+eval_124			Lin_122			Linux				Final			0.60
+eval_210			ang_232			Anglais				Intra			0.40
+eval_121			Res_214			Reseau				Intra			0.40
+eval_123			pro_221			Pro-C				Intra			0.40
+eval_232			pro_221			Pro-C				Final			0.60
+eval_142			Lin_122			Linux				Intra			0.40
+eval_214			res_214			Reseau				Final			0.60
+eval_210			alg_20			Algo				Intra			0.40

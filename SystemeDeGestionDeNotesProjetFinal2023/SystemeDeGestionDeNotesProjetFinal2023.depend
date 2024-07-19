@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1694551840 source:c:\users\bendy servilus\desktop\tp c\systemedegestiondenotesprojetfinal2023\main.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"Autres.h"
+	"gestionsEnseignants.h"
+
+1694554934 c:\users\bendy servilus\desktop\tp c\systemedegestiondenotesprojetfinal2023\autres.h
+	"prototypes.h"
+	"contraintes.h"
+
+1694626888 c:\users\bendy servilus\desktop\tp c\systemedegestiondenotesprojetfinal2023\prototypes.h
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1694555936 c:\users\bendy servilus\desktop\tp c\systemedegestiondenotesprojetfinal2023\contraintes.h
+	"prototypes.h"
+	"Autres.h"
+
+1694626897 c:\users\bendy servilus\desktop\tp c\systemedegestiondenotesprojetfinal2023\gestionsenseignants.h
+	"prototypes.h"
+	"Autres.h"
+	"contraintes.h"
+
+1696428915 source:c:\users\bendy servilus\desktop\systemedegestiondenotesprojetfinal2023\main.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"Autres.h"
+	"gestionsEnseignants.h"
+	"gestionEtudiants.h"
+	"gestionsCours.h"
+	"gestionEvaluations.h"
+	"consultationsNotes.h"
+
+1696348478 c:\users\bendy servilus\desktop\systemedegestiondenotesprojetfinal2023\autres.h
+	"prototypes.h"
+	"contraintes.h"
+
+1696348639 c:\users\bendy servilus\desktop\systemedegestiondenotesprojetfinal2023\prototypes.h
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1696348441 c:\users\bendy servilus\desktop\systemedegestiondenotesprojetfinal2023\contraintes.h
+	"prototypes.h"
+	"Autres.h"
+	"gestionEtudiants.h"
+	"gestionsEnseignants.h"
+
+1696348403 c:\users\bendy servilus\desktop\systemedegestiondenotesprojetfinal2023\gestionsenseignants.h
+	"prototypes.h"
+	"Autres.h"
+	"contraintes.h"
+	"gestionEtudiants.h"
+
+1696348400 c:\users\bendy servilus\desktop\systemedegestiondenotesprojetfinal2023\gestionetudiants.h
+	"prototypes.h"
+	"Autres.h"
+	"contraintes.h"
+	"gestionEtudiants.h"
+
+1696348407 c:\users\bendy servilus\desktop\systemedegestiondenotesprojetfinal2023\gestionscours.h
+
+1696428571 c:\users\bendy servilus\desktop\systemedegestiondenotesprojetfinal2023\gestionevaluations.h
+
+1696434557 c:\users\bendy servilus\desktop\systemedegestiondenotesprojetfinal2023\consultationsnotes.h
+
+1696428916 source:g:\usb20fd\2eme annee, 1er session\2eme session\programation c\prermier e\bonprojetsystemedegestiondenotesprojetfinal2023-4\systemedegestiondenotesprojetfinal2023\main.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"Autres.h"
+	"gestionsEnseignants.h"
+	"gestionEtudiants.h"
+	"gestionsCours.h"
+	"gestionEvaluations.h"
+	"consultationsNotes.h"
+
+1696348480 g:\usb20fd\2eme annee, 1er session\2eme session\programation c\prermier e\bonprojetsystemedegestiondenotesprojetfinal2023-4\systemedegestiondenotesprojetfinal2023\autres.h
+	"prototypes.h"
+	"contraintes.h"
+
+1696497518 g:\usb20fd\2eme annee, 1er session\2eme session\programation c\prermier e\bonprojetsystemedegestiondenotesprojetfinal2023-4\systemedegestiondenotesprojetfinal2023\prototypes.h
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1696348442 g:\usb20fd\2eme annee, 1er session\2eme session\programation c\prermier e\bonprojetsystemedegestiondenotesprojetfinal2023-4\systemedegestiondenotesprojetfinal2023\contraintes.h
+	"prototypes.h"
+	"Autres.h"
+	"gestionEtudiants.h"
+	"gestionsEnseignants.h"
+
+1696348402 g:\usb20fd\2eme annee, 1er session\2eme session\programation c\prermier e\bonprojetsystemedegestiondenotesprojetfinal2023-4\systemedegestiondenotesprojetfinal2023\gestionetudiants.h
+	"prototypes.h"
+	"Autres.h"
+	"contraintes.h"
+	"gestionEtudiants.h"
+
+1696348404 g:\usb20fd\2eme annee, 1er session\2eme session\programation c\prermier e\bonprojetsystemedegestiondenotesprojetfinal2023-4\systemedegestiondenotesprojetfinal2023\gestionsenseignants.h
+	"prototypes.h"
+	"Autres.h"
+	"contraintes.h"
+	"gestionEtudiants.h"
+
+1696348408 g:\usb20fd\2eme annee, 1er session\2eme session\programation c\prermier e\bonprojetsystemedegestiondenotesprojetfinal2023-4\systemedegestiondenotesprojetfinal2023\gestionscours.h
+
+1696428572 g:\usb20fd\2eme annee, 1er session\2eme session\programation c\prermier e\bonprojetsystemedegestiondenotesprojetfinal2023-4\systemedegestiondenotesprojetfinal2023\gestionevaluations.h
+
+1696497516 g:\usb20fd\2eme annee, 1er session\2eme session\programation c\prermier e\bonprojetsystemedegestiondenotesprojetfinal2023-4\systemedegestiondenotesprojetfinal2023\consultationsnotes.h
+

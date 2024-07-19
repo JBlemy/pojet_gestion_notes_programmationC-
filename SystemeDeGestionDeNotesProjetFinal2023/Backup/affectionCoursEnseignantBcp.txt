@@ -1,0 +1,7 @@
+aff_24322					birjam_1952					pro_221
+aff_41122					birjam_1952					alg_20
+aff_44002					piemic_2175					lin_122
+aff_23311					wallar_1522					alg_122
+aff_21421					esdjos_2423					pro_141
+aff_24013					kiljea_1558					res_214
+aff_31042					smidor_2108					ang_232

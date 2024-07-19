@@ -1,0 +1,6 @@
+BirJam_1952			Biron			James			5500.000000			+50944556677
+PieMic_2175			Pierre			Michel			3300.000000			+50944556677
+WalLar_1522			Walter			Larmy			5500.957000			+50944337788
+EsdJos_2423			Esdra			Joseph			2200.000000			+50933557788
+KilJea_1558			Killick			Jean			66.000000			+50955667733
+SmiDor_2108			Smith			Dorval			44.000000			+50933554466

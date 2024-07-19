@@ -1,0 +1,3 @@
+9			eval_212			lin_122			louvar_2627			65.089996
+15			eval_212			lin_122			serben_2065			99.779999
+16			eval_102			alg_20			Serben_2065			89.089996
